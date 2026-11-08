@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/zxk/Project/minesweeper_Raylib/build",
+  "command": "C:\\Users\\zxk\\raylib\\w64devkit\\bin\\g++.exe -IC:/Users/zxk/Project/minesweeper_Raylib/include -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles\\MyFirstProject.dir\\src\\main.cpp.obj -c C:\\Users\\zxk\\Project\\minesweeper_Raylib\\src\\main.cpp",
+  "file": "C:/Users/zxk/Project/minesweeper_Raylib/src/main.cpp",
+  "output": "C:/Users/zxk/Project/minesweeper_Raylib/build/CMakeFiles/MyFirstProject.dir/src/main.cpp.obj"
+}
+]
