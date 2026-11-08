@@ -1,3 +1,0 @@
-C:/Users/zxk/Project/minesweeper_Raylib/build/CMakeFiles/MyFirstProject.dir
-C:/Users/zxk/Project/minesweeper_Raylib/build/CMakeFiles/edit_cache.dir
-C:/Users/zxk/Project/minesweeper_Raylib/build/CMakeFiles/rebuild_cache.dir
